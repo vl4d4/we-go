@@ -1,0 +1,16 @@
+c:\users\korisnik\source\repos\WeGo\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+c:\users\korisnik\source\repos\WeGo\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+c:\users\korisnik\source\repos\WeGo\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+c:\users\korisnik\source\repos\WeGo\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+c:\users\korisnik\source\repos\WeGo\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+c:\users\korisnik\source\repos\WeGo\Tests\bin\Debug\netcoreapp2.1\Web.Views.dll
+c:\users\korisnik\source\repos\WeGo\Tests\bin\Debug\netcoreapp2.1\Web.Views.pdb
+c:\users\korisnik\source\repos\WeGo\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+c:\users\korisnik\source\repos\WeGo\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+c:\users\korisnik\source\repos\WeGo\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+c:\users\korisnik\source\repos\WeGo\Tests\bin\Debug\netcoreapp2.1\Web.dll
+c:\users\korisnik\source\repos\WeGo\Tests\bin\Debug\netcoreapp2.1\Web.pdb
+c:\users\korisnik\source\repos\WeGo\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+c:\users\korisnik\source\repos\WeGo\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete
+c:\users\korisnik\source\repos\WeGo\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+c:\users\korisnik\source\repos\WeGo\Tests\obj\Debug\netcoreapp2.1\Tests.pdb
